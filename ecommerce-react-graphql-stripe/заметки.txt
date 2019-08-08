@@ -1,0 +1,28 @@
+mlab.com
+https://cloud.mongodb.com/user#/atlas/login
+создание нового кластера
+
+-- дать команду из корня
+npm i -g strapi@alpha
+
+strapi new server
+cluster0-2rwvv.mongodb.net
+true
+нажми ввод (27017) порт
+Gayrat
+93jHcj3cj421AXty
+
+true
+
+***********************
+strapi.io
+****************************
+Start the Strapi Server, Create Root Admin for CMS
+
+Запускать из директории server
+strapi start
+
+strapi install graphql
+
+https://strapi.io/documentation/3.0.0-alpha.x/guides/graphql.html#usage
+http://localhost:1337/graphql
