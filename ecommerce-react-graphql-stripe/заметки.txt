@@ -6,13 +6,21 @@ https://cloud.mongodb.com/user#/atlas/login
 npm i -g strapi@alpha
 
 strapi new server
-cluster0-2rwvv.mongodb.net
+custom
+ Database name: server
+Host: cluster0-2rwvv.mongodb.net
 true
 нажми ввод (27017) порт
 Gayrat
 93jHcj3cj421AXty
+Authentication database (Maybe "admin" or blank): - ввод
+Enable SSL connection: true
 
-true
+если все нормально то пишет:
+The app has been connected to the database successfully!
+
+перейти в директорию server и запустить:
+strapi install graphql
 
 ***********************
 strapi.io
