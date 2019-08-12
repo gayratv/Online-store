@@ -1,3 +1,4 @@
 /.idea/
 /server/
 /ecommerce-react-graphql-stripe/client/node_modules/
+/ecommerce-react-graphql-stripe/server/
